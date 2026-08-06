@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HariPriya816141/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/HariPriya816141/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/HariPriya816141/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## String
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HariPriya816141/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/HariPriya816141/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/HariPriya816141/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Backtracking
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/HariPriya816141/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/HariPriya816141/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2401-longest-nice-subarray](https://github.com/HariPriya816141/LeetCode/tree/master/2401-longest-nice-subarray) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/HariPriya816141/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
