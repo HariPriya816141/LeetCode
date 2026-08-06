@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariPriya816141/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HariPriya816141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0454-4sum-ii](https://github.com/HariPriya816141/LeetCode/tree/master/0454-4sum-ii) |
+| [0485-max-consecutive-ones](https://github.com/HariPriya816141/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/HariPriya816141/LeetCode/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/HariPriya816141/LeetCode/tree/master/0525-contiguous-array) |
