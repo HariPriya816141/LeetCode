@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/HariPriya816141/LeetCode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HariPriya816141/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HariPriya816141/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HariPriya816141/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Greedy
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/HariPriya816141/LeetCode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HariPriya816141/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
