@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/HariPriya816141/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/HariPriya816141/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/HariPriya816141/LeetCode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/HariPriya816141/LeetCode/tree/master/0146-lru-cache) |
 | [0705-design-hashset](https://github.com/HariPriya816141/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HariPriya816141/LeetCode/tree/master/0706-design-hashmap) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
