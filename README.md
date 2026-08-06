@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/HariPriya816141/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/HariPriya816141/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/HariPriya816141/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/HariPriya816141/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/HariPriya816141/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/HariPriya816141/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0930-binary-subarrays-with-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/HariPriya816141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/HariPriya816141/LeetCode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HariPriya816141/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HariPriya816141/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Queue
 |  |
 | ------- |
