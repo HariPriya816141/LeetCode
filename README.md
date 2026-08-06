@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/HariPriya816141/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HariPriya816141/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HariPriya816141/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/HariPriya816141/LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HariPriya816141/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/HariPriya816141/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HariPriya816141/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/HariPriya816141/LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/HariPriya816141/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Backtracking
 |  |
