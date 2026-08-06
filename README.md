@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HariPriya816141/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/HariPriya816141/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/HariPriya816141/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/HariPriya816141/LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/HariPriya816141/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/HariPriya816141/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/HariPriya816141/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/HariPriya816141/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/HariPriya816141/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/HariPriya816141/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HariPriya816141/LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/HariPriya816141/LeetCode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
