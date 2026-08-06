@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HariPriya816141/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/HariPriya816141/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HariPriya816141/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HariPriya816141/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HariPriya816141/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/HariPriya816141/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/HariPriya816141/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/HariPriya816141/LeetCode/tree/master/0696-count-binary-substrings) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HariPriya816141/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/HariPriya816141/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HariPriya816141/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HariPriya816141/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HariPriya816141/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -350,11 +353,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/HariPriya816141/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/HariPriya816141/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/HariPriya816141/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HariPriya816141/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HariPriya816141/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HariPriya816141/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HariPriya816141/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Math
 |  |
 | ------- |
