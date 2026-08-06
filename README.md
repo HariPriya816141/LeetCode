@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HariPriya816141/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/HariPriya816141/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HariPriya816141/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HariPriya816141/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HariPriya816141/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HariPriya816141/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/HariPriya816141/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/HariPriya816141/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/HariPriya816141/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HariPriya816141/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HariPriya816141/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/HariPriya816141/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/HariPriya816141/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/HariPriya816141/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HariPriya816141/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HariPriya816141/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HariPriya816141/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/HariPriya816141/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/HariPriya816141/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/HariPriya816141/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HariPriya816141/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HariPriya816141/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HariPriya816141/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HariPriya816141/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
