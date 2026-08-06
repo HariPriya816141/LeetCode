@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/HariPriya816141/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HariPriya816141/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1002-find-common-characters) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1207-unique-number-of-occurrences](https://github.com/HariPriya816141/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/HariPriya816141/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/HariPriya816141/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1002-find-common-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1002-find-common-characters) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1207-unique-number-of-occurrences](https://github.com/HariPriya816141/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/HariPriya816141/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/HariPriya816141/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/HariPriya816141/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
