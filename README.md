@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/HariPriya816141/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/HariPriya816141/LeetCode/tree/master/0704-binary-search) |
+| [0930-binary-subarrays-with-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/HariPriya816141/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/HariPriya816141/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/HariPriya816141/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/HariPriya816141/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0930-binary-subarrays-with-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/HariPriya816141/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/HariPriya816141/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/HariPriya816141/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/HariPriya816141/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/HariPriya816141/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0930-binary-subarrays-with-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/HariPriya816141/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HariPriya816141/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 ## Queue
 |  |
 | ------- |
