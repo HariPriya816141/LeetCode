@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/HariPriya816141/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/HariPriya816141/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/HariPriya816141/LeetCode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/HariPriya816141/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HariPriya816141/LeetCode/tree/master/0706-design-hashmap) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -770,4 +771,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HariPriya816141/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/HariPriya816141/LeetCode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
