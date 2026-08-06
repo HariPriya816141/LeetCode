@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HariPriya816141/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HariPriya816141/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/HariPriya816141/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/HariPriya816141/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HariPriya816141/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/HariPriya816141/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/HariPriya816141/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/HariPriya816141/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,4 +180,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/HariPriya816141/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/HariPriya816141/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/HariPriya816141/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/HariPriya816141/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/HariPriya816141/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
