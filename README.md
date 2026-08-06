@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/HariPriya816141/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/HariPriya816141/LeetCode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/HariPriya816141/LeetCode/tree/master/0705-design-hashset) |
 | [0804-unique-morse-code-words](https://github.com/HariPriya816141/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0929-unique-email-addresses](https://github.com/HariPriya816141/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/HariPriya816141/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/HariPriya816141/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/HariPriya816141/LeetCode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/HariPriya816141/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/HariPriya816141/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/HariPriya816141/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -300,11 +302,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HariPriya816141/LeetCode/tree/master/0146-lru-cache) |
+| [0705-design-hashset](https://github.com/HariPriya816141/LeetCode/tree/master/0705-design-hashset) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HariPriya816141/LeetCode/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HariPriya816141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0705-design-hashset](https://github.com/HariPriya816141/LeetCode/tree/master/0705-design-hashset) |
 | [0981-time-based-key-value-store](https://github.com/HariPriya816141/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Doubly-Linked List
 |  |
@@ -420,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/HariPriya816141/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/HariPriya816141/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
