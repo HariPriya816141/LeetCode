@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HariPriya816141/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/HariPriya816141/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/HariPriya816141/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/HariPriya816141/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/HariPriya816141/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/HariPriya816141/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HariPriya816141/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/HariPriya816141/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/HariPriya816141/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HariPriya816141/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/HariPriya816141/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/HariPriya816141/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HariPriya816141/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HariPriya816141/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/HariPriya816141/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/HariPriya816141/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/HariPriya816141/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HariPriya816141/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
