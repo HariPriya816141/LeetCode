@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HariPriya816141/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HariPriya816141/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/HariPriya816141/LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/HariPriya816141/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/HariPriya816141/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HariPriya816141/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/HariPriya816141/LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/HariPriya816141/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/HariPriya816141/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## Backtracking
 |  |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/HariPriya816141/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HariPriya816141/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/HariPriya816141/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/HariPriya816141/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Union-Find
 |  |
 | ------- |
