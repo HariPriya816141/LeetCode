@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/HariPriya816141/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/HariPriya816141/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2401-longest-nice-subarray](https://github.com/HariPriya816141/LeetCode/tree/master/2401-longest-nice-subarray) |
+| [2762-continuous-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/2762-continuous-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/HariPriya816141/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2401-longest-nice-subarray](https://github.com/HariPriya816141/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/HariPriya816141/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2762-continuous-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/2762-continuous-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/HariPriya816141/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/HariPriya816141/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HariPriya816141/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2762-continuous-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/2762-continuous-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -496,11 +499,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/HariPriya816141/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/HariPriya816141/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HariPriya816141/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2762-continuous-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HariPriya816141/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HariPriya816141/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2762-continuous-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/2762-continuous-subarrays) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -568,4 +573,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/HariPriya816141/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/HariPriya816141/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2762-continuous-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/2762-continuous-subarrays) |
 <!---LeetCode Topics End-->
