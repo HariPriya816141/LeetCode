@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HariPriya816141/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HariPriya816141/LeetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/HariPriya816141/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/HariPriya816141/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HariPriya816141/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HariPriya816141/LeetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/HariPriya816141/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/HariPriya816141/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HariPriya816141/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HariPriya816141/LeetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/HariPriya816141/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/HariPriya816141/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HariPriya816141/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HariPriya816141/LeetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/HariPriya816141/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/HariPriya816141/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Queue
 |  |
 | ------- |
