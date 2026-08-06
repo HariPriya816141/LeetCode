@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/HariPriya816141/LeetCode/tree/master/0704-binary-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/HariPriya816141/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/HariPriya816141/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/HariPriya816141/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/HariPriya816141/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0930-binary-subarrays-with-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/HariPriya816141/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/HariPriya816141/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/HariPriya816141/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/HariPriya816141/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HariPriya816141/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/HariPriya816141/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Queue
 |  |
 | ------- |
