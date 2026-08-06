@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/HariPriya816141/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HariPriya816141/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HariPriya816141/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HariPriya816141/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HariPriya816141/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HariPriya816141/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/HariPriya816141/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HariPriya816141/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HariPriya816141/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HariPriya816141/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/HariPriya816141/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HariPriya816141/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/HariPriya816141/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HariPriya816141/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/HariPriya816141/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HariPriya816141/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/HariPriya816141/LeetCode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HariPriya816141/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 ## Greedy
 |  |
 | ------- |
