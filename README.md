@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HariPriya816141/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/HariPriya816141/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## String
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HariPriya816141/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/HariPriya816141/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
