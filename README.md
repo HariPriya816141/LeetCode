@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/HariPriya816141/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/HariPriya816141/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/HariPriya816141/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/HariPriya816141/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/HariPriya816141/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HariPriya816141/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/HariPriya816141/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/HariPriya816141/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/HariPriya816141/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0844-backspace-string-compare](https://github.com/HariPriya816141/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/HariPriya816141/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/HariPriya816141/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/HariPriya816141/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/HariPriya816141/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/HariPriya816141/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HariPriya816141/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/HariPriya816141/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HariPriya816141/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HariPriya816141/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Bracket Sequences
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/HariPriya816141/LeetCode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/HariPriya816141/LeetCode/tree/master/0495-teemo-attacking) |
+| [0844-backspace-string-compare](https://github.com/HariPriya816141/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Matrix
 |  |
 | ------- |
