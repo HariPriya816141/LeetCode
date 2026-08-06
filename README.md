@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HariPriya816141/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HariPriya816141/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HariPriya816141/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/HariPriya816141/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -829,4 +831,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/HariPriya816141/LeetCode/tree/master/0148-sort-list) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
