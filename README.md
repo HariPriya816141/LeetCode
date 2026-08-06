@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HariPriya816141/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HariPriya816141/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/HariPriya816141/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/HariPriya816141/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/HariPriya816141/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HariPriya816141/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HariPriya816141/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/HariPriya816141/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/HariPriya816141/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
