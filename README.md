@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HariPriya816141/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HariPriya816141/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HariPriya816141/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HariPriya816141/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/HariPriya816141/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2487-remove-nodes-from-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/HariPriya816141/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -821,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/HariPriya816141/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
