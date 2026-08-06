@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/HariPriya816141/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/HariPriya816141/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/HariPriya816141/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1089-duplicate-zeros](https://github.com/HariPriya816141/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/HariPriya816141/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HariPriya816141/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1002-find-common-characters) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/HariPriya816141/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/HariPriya816141/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HariPriya816141/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/HariPriya816141/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/HariPriya816141/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1208-get-equal-substrings-within-budget](https://github.com/HariPriya816141/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/HariPriya816141/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/HariPriya816141/LeetCode/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HariPriya816141/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/HariPriya816141/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Geometry
 |  |
 | ------- |
