@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/HariPriya816141/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/HariPriya816141/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/HariPriya816141/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/HariPriya816141/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HariPriya816141/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/HariPriya816141/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/HariPriya816141/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/HariPriya816141/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HariPriya816141/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HariPriya816141/LeetCode/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/HariPriya816141/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/HariPriya816141/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/HariPriya816141/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -196,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HariPriya816141/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/HariPriya816141/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/HariPriya816141/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
