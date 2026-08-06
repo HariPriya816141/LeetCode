@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HariPriya816141/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPriya816141/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariPriya816141/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/HariPriya816141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0454-4sum-ii](https://github.com/HariPriya816141/LeetCode/tree/master/0454-4sum-ii) |
 | [0500-keyboard-row](https://github.com/HariPriya816141/LeetCode/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HariPriya816141/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HariPriya816141/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariPriya816141/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/HariPriya816141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/HariPriya816141/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HariPriya816141/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/HariPriya816141/LeetCode/tree/master/0389-find-the-difference) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/HariPriya816141/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/HariPriya816141/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/HariPriya816141/LeetCode/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/HariPriya816141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/HariPriya816141/LeetCode/tree/master/0412-fizz-buzz) |
 ## Greedy
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HariPriya816141/LeetCode/tree/master/0146-lru-cache) |
+| [0380-insert-delete-getrandom-o1](https://github.com/HariPriya816141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -351,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/HariPriya816141/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/HariPriya816141/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
