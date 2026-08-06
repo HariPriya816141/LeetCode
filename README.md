@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HariPriya816141/LeetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/HariPriya816141/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/HariPriya816141/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2401-longest-nice-subarray](https://github.com/HariPriya816141/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HariPriya816141/LeetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/HariPriya816141/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/HariPriya816141/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2401-longest-nice-subarray](https://github.com/HariPriya816141/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/HariPriya816141/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/HariPriya816141/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/HariPriya816141/LeetCode/tree/master/0645-set-mismatch) |
+| [2401-longest-nice-subarray](https://github.com/HariPriya816141/LeetCode/tree/master/2401-longest-nice-subarray) |
 ## Pigeonhole Principle
 |  |
 | ------- |
