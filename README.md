@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HariPriya816141/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/HariPriya816141/LeetCode/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/HariPriya816141/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/HariPriya816141/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HariPriya816141/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HariPriya816141/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/HariPriya816141/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/HariPriya816141/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HariPriya816141/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/HariPriya816141/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/HariPriya816141/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/HariPriya816141/LeetCode/tree/master/0143-reorder-list) |
