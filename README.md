@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/HariPriya816141/LeetCode/tree/master/0454-4sum-ii) |
 | [0500-keyboard-row](https://github.com/HariPriya816141/LeetCode/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/HariPriya816141/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/HariPriya816141/LeetCode/tree/master/0704-binary-search) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/HariPriya816141/LeetCode/tree/master/0454-4sum-ii) |
 | [0500-keyboard-row](https://github.com/HariPriya816141/LeetCode/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/HariPriya816141/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/HariPriya816141/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/HariPriya816141/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Queue
 |  |
 | ------- |
