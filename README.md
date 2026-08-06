@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/HariPriya816141/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HariPriya816141/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HariPriya816141/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HariPriya816141/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
