@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/HariPriya816141/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HariPriya816141/LeetCode/tree/master/0706-design-hashmap) |
 | [0804-unique-morse-code-words](https://github.com/HariPriya816141/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0904-fruit-into-baskets](https://github.com/HariPriya816141/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/HariPriya816141/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/HariPriya816141/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/HariPriya816141/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/HariPriya816141/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/HariPriya816141/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0904-fruit-into-baskets](https://github.com/HariPriya816141/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/HariPriya816141/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/HariPriya816141/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/HariPriya816141/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/HariPriya816141/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/HariPriya816141/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/HariPriya816141/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HariPriya816141/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/HariPriya816141/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
