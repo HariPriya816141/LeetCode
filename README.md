@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/HariPriya816141/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1542-find-longest-awesome-substring](https://github.com/HariPriya816141/LeetCode/tree/master/1542-find-longest-awesome-substring) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/HariPriya816141/LeetCode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HariPriya816141/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/HariPriya816141/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/HariPriya816141/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HariPriya816141/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1542-find-longest-awesome-substring](https://github.com/HariPriya816141/LeetCode/tree/master/1542-find-longest-awesome-substring) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1768-merge-strings-alternately](https://github.com/HariPriya816141/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HariPriya816141/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/HariPriya816141/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/HariPriya816141/LeetCode/tree/master/0645-set-mismatch) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/HariPriya816141/LeetCode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1542-find-longest-awesome-substring](https://github.com/HariPriya816141/LeetCode/tree/master/1542-find-longest-awesome-substring) |
 | [2401-longest-nice-subarray](https://github.com/HariPriya816141/LeetCode/tree/master/2401-longest-nice-subarray) |
 ## Pigeonhole Principle
 |  |
