@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/HariPriya816141/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HariPriya816141/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HariPriya816141/LeetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/HariPriya816141/LeetCode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HariPriya816141/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HariPriya816141/LeetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HariPriya816141/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HariPriya816141/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HariPriya816141/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HariPriya816141/LeetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HariPriya816141/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HariPriya816141/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/HariPriya816141/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/HariPriya816141/LeetCode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Queue
 |  |
 | ------- |
