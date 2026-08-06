@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HariPriya816141/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/HariPriya816141/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/HariPriya816141/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/HariPriya816141/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/HariPriya816141/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/HariPriya816141/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/HariPriya816141/LeetCode/tree/master/0125-valid-palindrome) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HariPriya816141/LeetCode/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/HariPriya816141/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/HariPriya816141/LeetCode/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/HariPriya816141/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/HariPriya816141/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/HariPriya816141/LeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/HariPriya816141/LeetCode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/HariPriya816141/LeetCode/tree/master/0495-teemo-attacking) |
 | [0844-backspace-string-compare](https://github.com/HariPriya816141/LeetCode/tree/master/0844-backspace-string-compare) |
