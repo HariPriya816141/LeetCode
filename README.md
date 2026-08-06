@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/HariPriya816141/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/HariPriya816141/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/HariPriya816141/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HariPriya816141/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/HariPriya816141/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HariPriya816141/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/HariPriya816141/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HariPriya816141/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String Matching
 |  |
 | ------- |
