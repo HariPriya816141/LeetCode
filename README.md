@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/HariPriya816141/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HariPriya816141/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HariPriya816141/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1695-maximum-erasure-value](https://github.com/HariPriya816141/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/HariPriya816141/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HariPriya816141/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/HariPriya816141/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/HariPriya816141/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HariPriya816141/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/HariPriya816141/LeetCode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1590-make-sum-divisible-by-p](https://github.com/HariPriya816141/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HariPriya816141/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HariPriya816141/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/HariPriya816141/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/HariPriya816141/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/HariPriya816141/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
