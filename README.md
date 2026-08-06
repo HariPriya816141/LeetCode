@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/HariPriya816141/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/HariPriya816141/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HariPriya816141/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/HariPriya816141/LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/HariPriya816141/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-merge-in-between-linked-lists](https://github.com/HariPriya816141/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/HariPriya816141/LeetCode/tree/master/2074-reverse-nodes-in-even-length-groups) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HariPriya816141/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
