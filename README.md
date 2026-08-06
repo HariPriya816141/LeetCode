@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/HariPriya816141/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1002-find-common-characters) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/HariPriya816141/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/HariPriya816141/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1002-find-common-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1002-find-common-characters) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/HariPriya816141/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/HariPriya816141/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/HariPriya816141/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/HariPriya816141/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1002-find-common-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1002-find-common-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HariPriya816141/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Backtracking
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/HariPriya816141/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/HariPriya816141/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/HariPriya816141/LeetCode/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/HariPriya816141/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HariPriya816141/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
